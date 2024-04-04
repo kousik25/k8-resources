@@ -20,4 +20,5 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:mainline-alpine3.18-perl
+        image: nginx
+       # image: nginx:mainline-alpine3.18-perl
